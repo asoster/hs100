@@ -1,0 +1,5 @@
+*.pyc
+venv/
+*.mo
+*.tar.gz
+*/__cache__
