@@ -21,5 +21,5 @@ Aplicacion en desarrollo en Python3 con Ttkinder(GUI) para el dispisitivo HS100 
 
 ## Colaboradores:
 
-* (Garcia J Hernan)[https://github.com/C0Y4]
-* (Valentin Baez)[https://github.com/ValentinBaez]
+* [Garcia J Hernan](https://github.com/C0Y4)
+* [Valentin Baez](https://github.com/ValentinBaez)
