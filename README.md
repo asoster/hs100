@@ -57,7 +57,7 @@ pip install -r requeriments.txt
 
 ## Configuración
 
-dentro del archivo de configuracion `config.yaml` deberá cambiar las siguientes
+Dentro del archivo de configuracion `config.yaml` deberá cambiar las siguientes
 opciones:
 
 ```
@@ -67,7 +67,6 @@ port: NRO_DE_PUERTO
 
 ### Uso en pruebas
 
-Para hacer pruebas de nuesto código debemos tener esta configuración:
 Lanzamos con python un servidor web:
 ```
 python -m http.server --bind 127.0.0.1 9999
